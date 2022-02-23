@@ -1,2 +1,3 @@
 My name is Md. Shorfuddin (siam)
 This is my own portfolio website
+I am expert in HTML, CSS, Bootstrap, Javascript, JQuery, PHP, MySQL, Laravel.
