@@ -1,2 +1,3 @@
 demo2 page will also contain some content
 The logo is align cetered here.
+Added owl-carousel(slider) here.
